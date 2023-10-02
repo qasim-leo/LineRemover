@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+.idea
+
+### Output files ###
+out/
+output.csv
