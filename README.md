@@ -1,2 +1,3 @@
-# LineRemover
-Remove a line based on a sub-string inside any particular line.
+### Line/Lines Remover
+---------------------------
+#### Remove line(s) based on a substring that is present in that particular line.
